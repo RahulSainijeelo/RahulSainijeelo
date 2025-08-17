@@ -53,8 +53,8 @@ Unity/C# • Java + DSA • AI/ML basics • 3D modeling • Game dev prototypes
 
 - 📧 **Email**: rahulsainijeelo@gmail.com 
 - 💼 **LinkedIn**: [https://www.linkedin.com/in/r-rahul-s-saini/]  
-- 🐦 **Twitter**: [[@Rahul1962
-](https://x.com/Rahul1962)]
+- 🐦 **Twitter**: [@Rahul1962
+](https://x.com/Rahul1962)
 
 Always happy to discuss APIs, audits, performance optimization, or help debug tricky auth flows.
 
