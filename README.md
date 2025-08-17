@@ -4,7 +4,7 @@ I build things across the stack—web apps, dApps, and mobile experiences that w
 
 ## What I do
 
-**Full‑Stack + Web3 Engineer** who started learning from day one of college and never stopped shipping. I care about clean APIs, solid auth, performance that doesn't break under load, and smart contracts you can trust.
+**Full‑Stack + Web3 Engineer**. I care about clean APIs, solid auth, performance that doesn't break under load, and smart contracts you can trust.
 
 Currently: **Backend Lead** at an early‑stage startup, designing APIs and data models that scale.
 
