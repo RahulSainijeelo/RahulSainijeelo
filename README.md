@@ -25,12 +25,11 @@ Ethereum/Solana • Wallet adapters • dApps • Token programs • Gas optimiz
 React Native • Expo • Cross‑platform auth • Offline‑friendly patterns  
 
 **Other**  
-Unity/C# • Java + DSA • AI/ML basics • 3D modeling • Game dev prototypes  
+Unity/C# • Java + DSA • AI/ML basics • Game dev prototypes  
 
 ## Recent highlights
 
 - 🏆 **Hackathon 2nd Runner‑Up** — built and demoed a complete project under constraints  
-- 🚀 **Backend Lead** — API design, schema, auth, CI/CD for a growing startup  
 - 💼 **Internship** — shipped features in React/Next + Node/Express at scale  
 - 🎮 **Game Dev** — cleared Round‑1 in a game jam with Unity/C# prototype  
 - 🔐 **Web3 Audits** — comprehensive Foundry test suites with fuzz and invariant coverage  
