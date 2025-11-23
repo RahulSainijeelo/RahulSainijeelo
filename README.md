@@ -1,4 +1,4 @@
-# Hey, I'm Rahul Saini 👋
+# Hey, I'm Rahul Saini
 
 I build things across the stack—web apps, dApps, and mobile experiences that work reliably in production.
 
@@ -50,15 +50,16 @@ Unity/C# • Java + DSA • AI/ML basics • Game dev prototypes
 
 ## Let's connect
 
-- 📧 **Email**: rahulsainijeelo@gmail.com 
-- 💼 **LinkedIn**: [Linkedin](https://www.linkedin.com/in/r-rahul-s-saini/)
-- 🐦 **Twitter**: [@Rahul1962
+- **Email**: rahulsainijeelo@gmail.com 
+- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/r-rahul-s-saini/)
+- **Twitter**: [@Rahul1962
 ](https://x.com/Rahul1962)
 
 Always happy to discuss APIs, audits, performance optimization, or help debug tricky auth flows.
 
 ---
 
-💡 **Fun fact**: I also prototype in Unity/C# and have a soft spot for clean error handling that actually helps users.
+ **Fun fact**: I also prototype in Unity/C# and have a soft spot for clean error handling that actually helps users.
 
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulSainijeelo)](https://github.com/RahulSainijeelo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RahulSainijeelo&layout=compact&langs_count=10&card_width=320)](https://github.com/RahulSainijeelo/convoychat)
+[![Streak Stats](https://streak-stats.demolab.com?user=RahulSainijeelo&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
