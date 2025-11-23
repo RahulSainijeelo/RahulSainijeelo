@@ -29,10 +29,10 @@ Unity/C# • Java + DSA • AI/ML basics • Game dev prototypes
 
 ## Recent highlights
 
-- 🏆 **Hackathon 2nd Runner‑Up** — built and demoed a complete project under constraints  
-- 💼 **Internship** — shipped features in React/Next + Node/Express at scale  
-- 🎮 **Game Dev** — cleared Round‑1 in a game jam with Unity/C# prototype  
-- 🔐 **Web3 Audits** — comprehensive Foundry test suites with fuzz and invariant coverage  
+- **Hackathon 2nd Runner‑Up** — built and demoed a complete project under constraints  
+- **Internship** — shipped features in React/Next + Node/Express at scale  
+- **Game Dev** — cleared Round‑1 in a game jam with Unity/C# prototype  
+- **Web3 Audits** — comprehensive Foundry test suites with fuzz and invariant coverage  
 
 ## What I'm building
 
@@ -60,3 +60,5 @@ Always happy to discuss APIs, audits, performance optimization, or help debug tr
 ---
 
 💡 **Fun fact**: I also prototype in Unity/C# and have a soft spot for clean error handling that actually helps users.
+
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulSainijeelo)](https://github.com/RahulSainijeelo/github-readme-stats)
