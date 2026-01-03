@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Rahul Saini
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Web3+Engineer;Backend+Lead+%7C+Infrastructure;Solana+Program+Developer;Distributed+Systems+%26+DevOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+Web3+Engineer;Backend+Applications+%7C+Infrastructure;Solana+Program+Developer;Distributed+Systems+%26+DevOps" alt="Typing SVG" />
 </p>
 
 <p align="center">
