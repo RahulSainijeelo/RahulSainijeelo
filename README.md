@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- <img src="https://img.shields.io/badge/Backend%20Lead-Early%20Stage%20Startup-blue?style=for-the-badge&logo=rocket" /> -->
-  <img src="https://img.shields.io/badge/Web3%20Engineer-Full%20%7C%20Stack-orange?style=for-the-badge&logo=ethereum" />
+  <img src="https://img.shields.io/badge/Web3%20-Full%20%7C%20Stack-orange?style=for-the-badge&logo=ethereum" />
   <img src="https://img.shields.io/badge/DevOps-K8s%20%7C%20AWS-blueviolet?style=for-the-badge&logo=kubernetes" />
 </p>
 
