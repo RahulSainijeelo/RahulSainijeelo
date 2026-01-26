@@ -83,9 +83,9 @@ I build production-grade web apps, dApps, and mobile experiences. I specialize i
 ---
 
 ### GitHub Ecosystem
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RahulSainijeelo&theme=tokyonight-duo&bg_color=0d1117&hide_border=true" width="100%" />
-</p> -->
+</p> 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RahulSainijeelo&theme=tokyonight&hide_border=true" width="100%" />
