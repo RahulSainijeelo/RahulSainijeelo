@@ -85,6 +85,10 @@ I build production-grade web apps, dApps, and mobile experiences. I specialize i
 ### GitHub Ecosystem
 
 <p align="center">
+  <img src="https://githubusercontent.com" alt="Snake animation" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=RahulSainijeelo&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
