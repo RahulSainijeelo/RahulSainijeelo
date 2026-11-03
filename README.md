@@ -109,5 +109,3 @@ I build production-grade web apps, dApps, and mobile experiences. I specialize i
 <a href="https://x.com/Rahul1962"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="mailto:rahulsainijeelo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-> **Fun fact:** I have a soft spot for clean error handling that actually helps users rather than confusing them. 🐛✨
