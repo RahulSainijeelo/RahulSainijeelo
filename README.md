@@ -8,17 +8,19 @@
   <!-- <img src="https://img.shields.io/badge/Backend%20Lead-Early%20Stage%20Startup-blue?style=for-the-badge&logo=rocket" /> -->
   <img src="https://img.shields.io/badge/Web3%20-Full%20%7C%20Stack-orange?style=for-the-badge&logo=ethereum" />
   <img src="https://img.shields.io/badge/DevOps-K8s%20%7C%20AWS-blueviolet?style=for-the-badge&logo=kubernetes" />
+  <img src="https://img.shields.io/badge/IoT-Arduino%20%7C%20ESP8266-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
+
+<h3 align="center">Hi there, welcome to my profile!</h3>
 
 ---
 
-### About Me
-I build production-grade web apps, dApps, and mobile experiences. I specialize in **distributed systems**, **high-performance backend communication**, and **audited smart contracts**. My focus is on creating scalable infrastructure that remains reliable under heavy load.
-
+### Core Focus
 - **Infrastructure:** Orchestrating containers with Kubernetes and managing cloud-native deployments on AWS (ECS/ECR).
 - **Communication:** Implementing low-latency systems using gRPC, WebSockets, and real-time WebRTC flows.
 - **Web3 Enthusiast:** Expert in Foundry (fuzz/invariant testing) and high-security smart contract patterns.
 - **Monitoring:** Proactive system health tracking using Prometheus and Grafana dashboards.
+- **IoT & Embedded:** Prototyping hardware circuits and processing real-time sensor data using Arduino and NodeMCU (ESP8266).
 
 ---
 
@@ -70,15 +72,25 @@ I build production-grade web apps, dApps, and mobile experiences. I specialize i
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td align="center" width="200"><strong>IoT & Hardware</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/NodeMCU_(ESP8266)-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-### Recent Highlights & Achievements
-- **Hackathon 2nd Runner-Up:** Shipped a full-stack MVP under high-pressure constraints.
-- **Internship Experience:** Shipped production features for high-traffic Next.js apps.
-- **Web3 Audits:** Comprehensive Foundry test suites with fuzz and invariant coverage.
-- **Infrastructure:** Designed and deployed scalable containerized environments using K8s and AWS.
+### Recent Highlights & Projects
+- **Online Test-Taking Platform:** Full-featured assessment platform supporting Markdown, LaTeX, complex admin test creation, per-question timing, detailed evaluation, and a built-in scientific calculator.
+- **Trishul OS:** Custom operating system featuring a C/C++ cross-compiler, an advanced compositor, full Qt system support, and a native Qt-based desktop environment with essential applications.
+- **Food Delivery Platform:** End-to-end delivery ecosystem with dedicated frontends for users, restaurants, delivery partners, and admins—powered by Node.js, WebSockets, and RabbitMQ for real-time order tracking and message queuing.
+- **[Smart Smoke & Fire Detection System (SSFDS)](https://github.com/RahulSainijeelo/SSFDS):** Real-time IoT safety monitor built with NodeMCU (ESP8266), MQ-6 smoke/gas sensor, and DHT temperature/humidity sensor. Features adjustable thresholds, local buzzer/LED alarms, and live cloud alerts via the Blynk IoT platform.
+- **Parental Control System:** Stealth Android client linked to a web dashboard via OTP (uninstallable only by the admin). Supports remote device locking, per-app usage limits and active-hour schedules, auto-syncing newly installed apps, remote password changes, and instant lock-screen voice notes.
+- **[Rise — Habit & Productivity Mobile App](https://github.com/RahulSainijeelo/Rise):** Widget-rich mobile app featuring a **To-Do** tab (tasks, reminders, grouping), a **Habit** tab for building goals and behaviors, and a customizable **Zen Focus** mode (clock interface, timer, or habit tracker).
 
 ---
 
@@ -105,6 +117,7 @@ I build production-grade web apps, dApps, and mobile experiences. I specialize i
 
 ### Let's Connect
 <p align="center">
+<a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/r-rahul-s-saini/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://x.com/Rahul1962"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="mailto:rahulsainijeelo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
